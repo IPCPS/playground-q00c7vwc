@@ -16,3 +16,19 @@
 
 @[Negative Results]({"stubs": ["1.2/step5/NegativeResults.java"], "command": "sh run.sh NegativeResults 1.2/step5"})
 
+# 2.2 Beyond ints
+
+@[String Examples]({"stubs": ["2.2/step1/StringExamples.java"], "command": "sh run.sh StringExamples 2.2/step1"})
+
+@[Conctenating Strings]({"stubs": ["2.2/step2/Name.java"], "command": "sh run.sh Name 2.2/step2"})
+
+@[Conctenating Strings]({"stubs": ["2.2/step3/Name.java"], "command": "sh run.sh Name 2.2/step3"})
+
+# 2.3 Java Checks Types
+
+@[Mixing Strings and ints]({"stubs": ["2.3/step1/JavaChecksTypes.java"], "command": "sh run.sh JavaChecksTypes 2.3/step1"})
+
+@[Mixing Strings and ints]({"stubs": ["2.3/step2/JavaChecksTypes.java"], "command": "sh run.sh JavaChecksTypes 2.3/step2"})
+
+@[Mixing Strings and ints]({"stubs": ["2.3/step3/JavaChecksTypes.java"], "command": "sh run.sh JavaChecksTypes 2.3/step3"})
+
