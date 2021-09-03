@@ -1,8 +1,8 @@
-# Code Example
+# 1.1 Programs, Fields
 
-@[First Example]({"stubs": ["FirstExample.java"], "command": "sh run.sh FirstExample"})
+@[First Example]({"stubs": ["1.1/step1/FirstExample.java"], "command": "sh run.sh FirstExample 1.1/step1"})
 
-@[Second Example]({"stubs": ["SecondExample.java"], "command": "sh run.sh SecondExample"})
+@[Second Example]({"stubs": ["1.1/step3/SecondExample.java"], "command": "sh run.sh SecondExample 1.1/step3"})
 
 # 1.2 Java as a Calculator
 
